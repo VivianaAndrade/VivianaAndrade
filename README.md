@@ -1,8 +1,8 @@
 # Seja bem vindo(a)! 
 
-https://user-images.githubusercontent.com/104755957/225347802-0eeea8dc-9f54-4da3-a0f8-56429057e1df.mp4
+![Logo de Empreendedorismo de Yoga Feminino](https://user-images.githubusercontent.com/104755957/225348861-0d99160c-f880-4e75-8b4e-29a21072cfee.gif)
 
-## Redes sociais
+
 <div>
    <a href="https: www.linkedin.com/in/viviana-andrade-542767194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https:https://www.instagram.com/viviana_ofcy.and/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
