@@ -1,12 +1,15 @@
 ## Seja bem vindo(a)! 
 
+![perfil git](https://user-images.githubusercontent.com/104755957/225340490-59a5011e-842a-4302-b8b2-0be764ebfc92.png)
+
 
 ## Redes sociais
 <div>
-   https://www.facebook.com/viviana.andrade.58173/
-  
+   <a href="https: www.linkedin.com/in/viviana-andrade-542767194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https:https://www.instagram.com/viviana_ofcy.and/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:vivibecker.andrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <div> 
- www.linkedin.com/in/viviana-andrade-542767194/
+
     
 </div> 
 
