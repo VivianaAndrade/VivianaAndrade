@@ -1,7 +1,6 @@
 # Seja bem vindo(a)! 
 
-![perfil git](https://user-images.githubusercontent.com/104755957/225340490-59a5011e-842a-4302-b8b2-0be764ebfc92.png)
-
+https://user-images.githubusercontent.com/104755957/225347802-0eeea8dc-9f54-4da3-a0f8-56429057e1df.mp4
 
 ## Redes sociais
 <div>
