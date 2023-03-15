@@ -1,4 +1,6 @@
-# Seja bem vindo(a)! 
+***<h1 align="center" >Bem vindo(a)!</h1>***
+
+<h3> "A persistência é o caminho do êxito." Charles Chaplin </h3>
 
 ![Logo de Empreendedorismo de Yoga Feminino](https://user-images.githubusercontent.com/104755957/225348861-0d99160c-f880-4e75-8b4e-29a21072cfee.gif)
 
