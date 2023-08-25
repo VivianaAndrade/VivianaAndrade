@@ -19,9 +19,8 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias<3</h1>
     <img align="center" height="30" width="40" alt="python-icon"  src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColo">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="vue-icon" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
     <img align="center" height="30" width="40" alt="git-icon" src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor">
